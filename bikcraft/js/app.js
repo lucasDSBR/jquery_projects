@@ -4,5 +4,10 @@ $('h2').append($('.introducao h1'));
 
 $('h2').appendTo($('.introducao h1'));
 
-var conteudoH2 = $('.h2').html();
-console.log(conteudoH2)
+
+
+//Eventos básicos
+
+$('a').click(function(){
+
+})
